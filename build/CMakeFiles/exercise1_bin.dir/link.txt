@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/exercise1_bin.dir/main.cpp.o  -o exercise1_bin -rdynamic -lGLU -lGL -lSM -lICE -lX11 -lXext -lglut -lXmu -lXi 
